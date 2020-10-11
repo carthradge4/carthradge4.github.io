@@ -27,8 +27,8 @@ var overviewerConfig = {
         "FrontierWorld - nether"
     ],
     "map": {
-        "debug": true,
-        "cacheTag": "1593232041",
+        "debug": false,
+        "cacheTag": "1602384098",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "FrontierWorld",
-            "last_rendertime": 1593229093,
+            "last_rendertime": 1602381531,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -70,14 +70,14 @@ var overviewerConfig = {
         },
         {
             "name": "Nether Roof",
-            "zoomLevels": 7,
+            "zoomLevels": 10,
             "defaultZoom": 1,
-            "maxZoom": 7,
+            "maxZoom": 10,
             "path": "FrontierNetherSplit",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "FrontierWorld - nether",
-            "last_rendertime": 1593228751,
+            "last_rendertime": 1599514102,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
